@@ -87,7 +87,7 @@ Blog Link: [Steel Defect Detection — Image Segmentation using TensorFlow](http
       11.1 Final Function - 1
       11.2 Final Function - 2
 
-### [Final.ipynb](https://github.com/AkhilPenta/Steel-Defect-Detection/blob/8bf2a50f8a73361255ea7972ea81dffca49b1f55/Final.ipynb)
+### [Quantization.ipynb](https://github.com/AkhilPenta/Steel-Defect-Detection/blob/8bf2a50f8a73361255ea7972ea81dffca49b1f55/Quantization.ipynb)
   ### 12. Post-Training Quantization
       12.1 Quantization
       12.2 Size Comparision
